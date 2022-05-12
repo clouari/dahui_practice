@@ -7,7 +7,7 @@ class View extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('dd'),
+        title: Text('모델입니다'),
       ),
       body: Container(),
     );
