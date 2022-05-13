@@ -1,4 +1,4 @@
-import 'package:dahui_practice/ui/home_page.dart';
+import 'package:dahui_practice/ui/home/home_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
